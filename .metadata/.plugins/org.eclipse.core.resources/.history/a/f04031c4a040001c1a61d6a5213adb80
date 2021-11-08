@@ -1,0 +1,5 @@
+package br.org.generation.farmacia_gen.model;
+
+public class Produtos {
+
+}
